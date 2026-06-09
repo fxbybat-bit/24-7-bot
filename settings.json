@@ -1,5 +1,4 @@
-{
-  "name": "AFK Bot",
+"name": "AFK Bot",
   "bot-account": {
     "username": "HenryCavil95",
     "password": "",
@@ -8,7 +7,7 @@
   "server": {
     "ip": "CriticalWorld.aternos.me",
     "port": 48407,
-    "version": "1.21.5",
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
