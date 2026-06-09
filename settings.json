@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoblosPlayz",
+    "username": "HenryCavil95",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "CriticalWorld.aternos.me",
     "port": 48407,
-    "version": "1.21.4",
+    "version": "-1",
     "try-creative": false
   },
   "position": {
